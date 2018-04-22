@@ -1,2 +1,6 @@
 index.html  readme.txt	test.txt
+<<<<<<< HEAD
 Test
+swetha
+
+>>>>>>> commit by B																																																																																																																																									
